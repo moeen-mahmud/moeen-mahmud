@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Moeen!
 ====================================================================================================================================
 
-Frontend Developer
-------------------
-
-Frontend Developer by profession, coder by passion, and tech enthusiast by heart. Love to experiment with new technologies and occasionally write about them.
+A Frontend Developer by profession, coder by passion, and tech enthusiast by heart. Love to experiment with new technologies and occasionally write about them.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [moeenwho.works](http://www.moeenwho.works)
