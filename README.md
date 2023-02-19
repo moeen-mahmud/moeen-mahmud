@@ -1,49 +1,119 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Moeen!
+Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-A Frontend Developer by profession, coder by passion, and tech enthusiast by heart. Love to experiment with new technologies and occasionally write about them.
+Frontend Developer, tech enthusiast.
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [moeenmahmud.me](http://www.moeenmahmud.me)
-* ✉️  You can contact me at [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
-* 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Procrastinate a lot by playing guitars and video games, but still manage to get things done.
+* 🌍  I'm from Dhaka, Bangladesh
+* 🖥️  Portfolio [moeenmahmud.me](http://www.moeenmahmud.me)
+* ✉️  Email [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
 
-### Tech Stack
+## Tech Stack
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<div>
+<!-- Languages -->
+<p>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript"/>
 </a>
+&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=ts" width="36" alt="TypeScript"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+&nbsp;
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nodejs" width="36" alt="Node JS"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+&nbsp;
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=go" width="36" alt="Golang"/>
 </a>
+&nbsp; &nbsp; &nbsp;
+  
+<!-- Frameworks -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=react" width="36" alt="React JS"/>
+</a>
+&nbsp;
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="36" alt="Next JS"/>
 </a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+&nbsp;
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=svelte" width="36" alt="Svelte"/>
+</a>
+&nbsp;
+<a href="https://nestjs.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=nestjs" width="36" alt="Nest JS"/>
+</a>
+&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=express" width="36" alt="Express JS"/>
+</a>
+&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=mongodb" width="36" alt="Mongo DB"/>
+</a>
+&nbsp; &nbsp; &nbsp;
+<p>
+  
+<!-- Libraries -->
+<p>
+<a href="https://https://redux.js.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="Redux" />
+</a>
+&nbsp;
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
+</a>
+&nbsp;
+<a href="https://cyress.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" width="36" height="36" alt="Cypress" />
+</a>
+&nbsp;
+<a href="https://storybook.js.org/docs/" target="_blank" rel="noreferrer">
+<img src="https://theideabureau-1d0ab.kxcdn.com/wp-content/uploads/2022/03/storybook-cover.png" width="36" height="36" alt="Storybook" />
+</a>
+&nbsp;
+<a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer">
+<img src="https://static.codenary.co.kr/framework_logo/reactquery.png" width="36" height="36" alt="React Query" />
+</a>
+<!-- Technologies -->
+&nbsp; &nbsp; &nbsp;
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="Vite" />
+</a>
+&nbsp;
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack" />
+</a> 
+&nbsp;
+<a href="https://nx.dev/" target="_blank" rel="noreferrer">
+<img src="https://miro.medium.com/max/535/1*JOrlLNUDR7jisQJ81DTyLw.png" width="36" height="36" alt="Nx" />
+</a> 
 </p>
+  
+<p>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
+</a>
+&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure" />
+</a>
+&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=heroku" width="36" height="36" alt="Heroku" />
+</a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://stripe.com/" target="_blank" rel="noreferrer">
+<img src="https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE" width="36" height="36" alt="Stripe" />
+</a>
+</p>
+</div>
 
+---
 
-### Let's connect
+<!-- ### Let's connect
 
 <p align="left">
 <a href="https://www.github.com/moeen-mahmud" target="_blank" rel="noreferrer">
@@ -60,14 +130,12 @@ A Frontend Developer by profession, coder by passion, and tech enthusiast by hea
 </a> <a href="https://www.stackoverflow.com/users/16439389/moeen" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
 </a> 
-</p>
+</p> -->
 
-### Badges
+<!-- Stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&layout=compact&theme=tokyonight)
 
-<b>My GitHub Stats</b>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+&nbsp; &nbsp;
+[![Stats](https://github-readme-stats.vercel.app/api?username=moeen-mahmud&show_icons=true&theme=tokyonight)](https://github.com/moeen-mahmud/github-readme-stats)
 
-<a href="http://www.github.com/moeen-mahmud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/moeen-mahmud"><img src="https://activity-graph.herokuapp.com/graph?username=moeen-mahmud&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/moeen-mahmud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
