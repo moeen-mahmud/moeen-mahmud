@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Moeen!
+Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-A Frontend Developer by profession, coder by passion, and tech enthusiast by heart. Love to experiment with new technologies and occasionally write about them.
+Frontend Developer, tech enthusiast.
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [moeenmahmud.me](http://www.moeenmahmud.me)
-* ✉️  You can contact me at [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
-* 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Procrastinate a lot by playing guitars and video games, but still manage to get things done.
+* 🌍  I'm from Dhaka, Bangladesh
+* 🖥️  Portfolio [moeenmahmud.me](http://www.moeenmahmud.me)
+* ✉️  Email [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
 
 ## Tech Stack
 
@@ -51,6 +49,10 @@ A Frontend Developer by profession, coder by passion, and tech enthusiast by hea
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=express" width="36" alt="Express JS"/>
 </a>
+&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=mongodb" width="36" alt="Mongo DB"/>
+</a>
 &nbsp; &nbsp; &nbsp;
 <p>
   
@@ -71,14 +73,42 @@ A Frontend Developer by profession, coder by passion, and tech enthusiast by hea
 <a href="https://storybook.js.org/docs/" target="_blank" rel="noreferrer">
 <img src="https://theideabureau-1d0ab.kxcdn.com/wp-content/uploads/2022/03/storybook-cover.png" width="36" height="36" alt="Storybook" />
 </a>
+&nbsp;
+<a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer">
+<img src="https://static.codenary.co.kr/framework_logo/reactquery.png" width="36" height="36" alt="React Query" />
+</a>
+<!-- Technologies -->
+&nbsp; &nbsp; &nbsp;
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="Vite" />
+</a>
+&nbsp;
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=webpack" width="36" height="36" alt="Webpack" />
+</a> 
+&nbsp;
+<a href="https://nx.dev/" target="_blank" rel="noreferrer">
+<img src="https://miro.medium.com/max/535/1*JOrlLNUDR7jisQJ81DTyLw.png" width="36" height="36" alt="Nx" />
+</a> 
 </p>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  
+<p>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" />
+</a>
+&nbsp;
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure" />
+</a>
+&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=heroku" width="36" height="36" alt="Heroku" />
+</a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://stripe.com/" target="_blank" rel="noreferrer">
+<img src="https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE" width="36" height="36" alt="Stripe" />
+</a>
+</p>
 </div>
 
 ---
@@ -102,14 +132,10 @@ A Frontend Developer by profession, coder by passion, and tech enthusiast by hea
 </a> 
 </p> -->
 
-<p align="center">
-<a href="http://www.github.com/moeen-mahmud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
+<!-- Stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&layout=compact&theme=tokyonight)
 
-<!-- <p align="center">
-<a href="http://www.github.com/moeen-mahmud"><img src="https://activity-graph.herokuapp.com/graph?username=moeen-mahmud&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p> -->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+&nbsp; &nbsp;
+[![Stats](https://github-readme-stats.vercel.app/api?username=moeen-mahmud&show_icons=true&theme=tokyonight)](https://github.com/moeen-mahmud/github-readme-stats)
 
-<p align="center">
-<a href="https://github.com/moeen-mahmud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
