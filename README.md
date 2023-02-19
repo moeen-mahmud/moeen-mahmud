@@ -25,6 +25,10 @@ A Frontend Developer by profession, coder by passion, and tech enthusiast by hea
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=nodejs" width="36" alt="Node JS"/>
 </a>
+&nbsp;
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=go" width="36" alt="Golang"/>
+</a>
 &nbsp; &nbsp; &nbsp;
   
 <!-- Frameworks -->
