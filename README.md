@@ -138,6 +138,6 @@ Frontend Developer, tech enthusiast.
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-
+<!-- 
 [![Stats](https://github-readme-stats.vercel.app/api?username=moeen-mahmud&show_icons=true&theme=tokyonight)](https://github.com/moeen-mahmud/github-readme-stats)
-
+-->
