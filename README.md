@@ -133,8 +133,9 @@ Frontend Developer, tech enthusiast.
 </p> -->
 
 <!-- Stats -->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&layout=compact&theme=tokyonight)
-
+-->
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
