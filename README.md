@@ -1,10 +1,10 @@
 Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Frontend Developer, tech enthusiast.
+Full Stack Developer, tech enthusiast.
 
 * 🌍  I'm from Dhaka, Bangladesh
-* 🖥️  Portfolio [moeenmahmud.me](http://www.moeenmahmud.me)
+* 🖥️  Portfolio [moeenmahmud.me](http://www.moeenmahmud.vercel.app)
 * ✉️  Email [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
 
 ## Tech Stack
