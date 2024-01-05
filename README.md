@@ -4,7 +4,7 @@ Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/1763
 Full Stack Developer, tech enthusiast.
 
 * 🌍  I'm from Dhaka, Bangladesh
-* 🖥️  Portfolio [moeenmahmud.vercel.app](http://www.moeenmahmud.vercel.app)
+* 🖥️  Portfolio [moeenmahmud.vercel.app](https://moeenmahmud.vercel.app/)
 * ✉️  Email [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
 
 ## Tech Stack
