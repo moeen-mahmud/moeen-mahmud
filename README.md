@@ -137,6 +137,8 @@ Full Stack Developer, tech enthusiast.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeen-mahmud&layout=compact&theme=tokyonight)
 -->
 
+<a href="https://app.daily.dev/moeen_mahmud"><img src="https://api.daily.dev/devcards/b23d2ea3ddb742d4a7184052118da41b.png?r=3wy" width="400" alt="Moeen Mahmud's Dev Card"/></a>
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 <!-- 
