@@ -3,8 +3,8 @@ Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/1763
 
 Software Engineer, developer, tech enthusiast.
 
-* 🖥️  Portfolio [moeenmahmud.osmynt.app](https://moeenmahmud.vercel.app/)
-* ✉️  Email [moeen@osmynt.com](mailto:moeen@osmynt.com)
+* 🖥️  Portfolio [moeen.osmynt.dev/](https://moeen.osmynt.dev/)
+* ✉️  Email [moeen@osmynt.dev](mailto:moeen@osmynt.dev)
 
 ## Tech Stack
 
