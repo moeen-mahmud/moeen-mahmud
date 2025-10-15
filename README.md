@@ -3,9 +3,8 @@ Hi, I'm Moeen! ![waving](https://user-images.githubusercontent.com/18350557/1763
 
 Software Engineer, developer, tech enthusiast.
 
-* 🌍  I'm from Dhaka, Bangladesh
-* 🖥️  Portfolio [moeen.turbogist.dev](https://moeen.turbogist.dev/)
-* ✉️  Email [moeen.mahmud007@gmail.com](mailto:moeen.mahmud007@gmail.com)
+* 🖥️  Portfolio [moeenmahmud.osmynt.app](https://moeenmahmud.vercel.app/)
+* ✉️  Email [moeen@osmynt.com](mailto:moeen@osmynt.com)
 
 ## Tech Stack
 
