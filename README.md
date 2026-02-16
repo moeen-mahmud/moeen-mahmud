@@ -138,8 +138,8 @@ Software Engineer, developer, tech enthusiast.
 
 <a href="https://app.daily.dev/moeen_mahmud"><img src="https://github.com/moeen-mahmud/moeen-mahmud/blob/main/devcard.svg" width="300" alt="Moeen Mahmud's Dev Card"/></a>
 
-<!-- Top Language -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=moeen-mahmud&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
 <!-- 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moeen-mahmud&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
