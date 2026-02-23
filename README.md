@@ -1,5 +1,10 @@
+# 👋 Hey there, I'm Moeen!
 
-<div align="center">
+### Software Engineer | Full-Stack Developer | Builder
+
+I design and build scalable products with a strong focus on performance, developer experience, and clean architecture.
+
+<!-- <div align="center">
 
 # 👋 Hey there, I'm Moeen!
 
@@ -10,7 +15,7 @@
 
 <!--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22ff88&center=true&vCenter=true&width=435&lines=Building+scalable+web+apps;Crafting+elegant+solutions;Always+learning+new+tech" alt="Typing SVG" />
--->
+
 I design and build scalable web products with a strong focus on performance,
 developer experience, and clean architecture.
 
@@ -103,7 +108,7 @@ developer experience, and clean architecture.
 
 ![](https://komarev.com/ghpvc/?username=moeen-mahmud&color=6366f1&style=flat-square&label=Profile+Views)
 
-</div>
+</div> 
 
 <!--
 # Hi, I’m Moeen 👋
