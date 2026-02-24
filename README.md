@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full-Stack Developer | Builder
 
-I design and build scalable products with a strong focus on performance, developer experience, and clean architecture.
+I design and build products with a strong focus on performance, developer experience, and clean architecture.
 
 <!-- <div align="center">
 
