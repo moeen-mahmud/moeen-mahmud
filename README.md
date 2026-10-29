@@ -1,8 +1,21 @@
-# 👋 Hey there, I'm Moeen!
+# Hey, I'm Moeen.
 
-### Software Engineer | Full-Stack Developer | Builder
+**Software Engineer · Distributed Systems · Software Architecture · AI Infrastructure**
 
-I design and build products with a strong focus on performance, developer experience, and clean architecture.
+I design and build software systems, developer tools, and infrastructure. Currently focused on AI agent runtimes, distributed systems, and the engineering challenges behind reliable autonomous software.
+
+I value **simplicity over unnecessary abstraction, correctness over cleverness, and evidence over assumptions**. Good software should be understandable, maintainable, and built with clear boundaries.
+
+### Open Source & Research
+
+- **[Dispach](https://github.com/moeen-mahmud/dispach)** — Open-source, self-hosted AI agent runtime.
+- **[Osmynt](https://github.com/moeen-mahmud/osmynt)** — Secure, real-time developer collaboration.
+- **[Tagline](https://github.com/HelicanHQ/tagline-sh)** — GitHub-native release management agent.
+- **[Research](https://arxiv.org/abs/2610.06274)** — Runtime-enforced security boundaries for self-configuring AI agents.
+
+---
+
+[LinkedIn](https://linkedin.com/in/moeen-mahmud) · [GitHub](https://github.com/moeen-mahmud) · [Email](mailto:moeen@blivius.dev)
 
 <!-- <div align="center">
 
